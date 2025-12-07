@@ -1,0 +1,19 @@
+{
+  "short_name": "Filipe Bicho",
+  "name": "Filipe Bicho",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "id": "filipe-bicho",
+  "lang":"en",
+  "description": "Filipe Bicho Portfolio",
+  "start_url": "/",
+  "scope":"/",
+  "display": "standalone",
+  "prefer_related_applications": false,
+  "related_applications": []
+}
